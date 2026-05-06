@@ -42,7 +42,8 @@ python train_lenet.py
 - 简易CNN测试准确率：98.5%左右
 - LeNet-5测试准确率：98.8%左右
 - 自动绘制损失曲线、可视化识别效果
-- ![cnn]
+- ![cnn_train](figure/cnn_train.png)
+- ![lenet5](figure/lenet5.png)
 - 默认CPU训练，支持GPU加速训练
 
 ## 网络说明
