@@ -1,5 +1,4 @@
 # hw05
-# README.md（**纯复制即用，不用改任何字**）
 ```markdown
 # MNIST手写数字识别 CNN与LeNet-5 深度学习实验
 ## 项目简介
