@@ -35,13 +35,14 @@ python cnn_mnist.py
 ```
 2. 运行任务二LeNet-5
 ```bash
-python lenet5_mnist.py
+python train_lenet.py
 ```
 
 ## 实验结果
 - 简易CNN测试准确率：98.5%左右
 - LeNet-5测试准确率：98.8%左右
 - 自动绘制损失曲线、可视化识别效果
+- ![cnn]
 - 默认CPU训练，支持GPU加速训练
 
 ## 网络说明
